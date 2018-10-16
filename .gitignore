@@ -23,3 +23,6 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+src/main/java/com/example/controller/
+src/main/resources/static/
+src/main/resources/templates/
